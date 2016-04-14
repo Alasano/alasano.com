@@ -1,0 +1,25 @@
+/* Basic */
+body {
+  background-image: url("../../images/bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom center;
+  background-attachment: fixed; }
+  body:after {
+    display: none; }
+
+/* List */
+ul.icons li a:before {
+  color: #a7a7a7; }
+ul.icons li a:hover:before {
+  color: #5d00f0; }
+
+/* Wrapper */
+#wrapper {
+  text-align: center; }
+
+/* Main */
+#main {
+  display: inline-block; }
+
+/*# sourceMappingURL=ie9.css.map */
